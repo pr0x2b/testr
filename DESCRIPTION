@@ -1,0 +1,16 @@
+Package: testr
+Title: Create Output For Concatenated Factors
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Pranav",
+           family = "Pandya",
+           role = c("aut", "cre"),
+           email = "pranav.pandya84@yahoo.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Test Purpose Function
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Suggests: 
+    testthat (>= 2.1.0)
